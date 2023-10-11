@@ -55,14 +55,17 @@
     display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 70%;
+  padding-top: 10px;
+  padding-bottom: 20px;
+ width: 70%;
 }
 /* text css above hero image*/
 .hero_title {
     font-size: 4.5rem;
 }
 img.imageAboutPage {
-    border-radius: 40%;
+    border-radius: 20%;
+    height: 25rem;
   }
 .hero_desc {
     font-size: 2rem;
